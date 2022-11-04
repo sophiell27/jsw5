@@ -72,7 +72,7 @@ function render(status){
                 <div class="">
                   <img
                     src="${item.imgUrl}"
-                    onerror="this.onerror=null;this.src='./images/no_found.png';"
+                    onerror="this.onerror=null;this.src='./src/images/no_found.png';"
                     class="w-full h-[180px] object-cover mb-5 rounded"
                   />
                   <article class="relative px-5">
